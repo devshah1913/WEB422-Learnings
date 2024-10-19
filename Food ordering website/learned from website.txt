@@ -1,0 +1,39 @@
+CSS and HTML property learned
+
+-> linear gradient:- works with two color, also we can mention any side through simple English
+
+-> Inherit:- this will work to inherit many things from parent element if it is set by default by a system.
+
+->Important:- this key word is used beside and of the tag so it can apply over all other
+
+-> position:- More understanding what should be absolute and what should be relative
+
+->Focus: By selecting everything we can change outline to desired color to get rid of that by-default outline of a blue color.
+
+
+-> Inside main tag we only use content which is not repeated on other pages but header and footer we need to so they are outside but they are inside body
+
+-> a-tag :- this will use to call directly by using call to for phone and mail-to for mail
+
+-> transform: all ->  will help to transform all the things
+-> !important tag after css tag is use to mark imp and can not be changes.
+-> border bottom- this is use to underline the word without text decoration underline
+   border-bottom- 1px solid transparent-> this will transparent white line on hovering
+
+-> Always change a website view port when the design breaks and not depend on a screen size
+
+-> If we use rem while creation of website to make it responsive we can easily change the font size
+
+->if want to make a navigation for phone copy close and menu icon from ion-icon and do display:none for large display and mention display: block for small display
+
+
+JAVASCRIPT
+
+->JavaScript small concept but big thing i haven't seen in many website that closing the nav bar automatically
+
+->The new feature which i have never learned earlier is intersectionObserver this is a very good feature to wait for something which needs to enter or pass through it can be execute, it only works another root element and threshold is met.
+
+ -> need to declare array because it is a part of a method this keeps records of all
+the observation it make
+
+-> I learned one more thing to use caniuse.com. That shows new property can work on browsers or not.
