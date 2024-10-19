@@ -1,3 +1,4 @@
+//https://lighthearted-panda-1b972b.netlify.app
 const myName = "Dev nirmal shah";
 const h1 = document.querySelector(".heading-primary");
 console.log(myName);
